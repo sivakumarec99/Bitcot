@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86595AEE-E163-400B-B7DC-13AF2FD62EA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C53E0B31-810A-45EF-A7D9-98740B238833"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Byte/LoginView/ViewModel/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loginAPICall(userName:password:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D69DCB29-40AC-4F14-B1B2-509926C03D03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Byte/LoginView/ViewModel/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "loginAPICall(userName:password:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D69DCB29-40AC-4F14-B1B2-509926C03D03 - 67bb1d3b65d172da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Byte.Api.loginAPICall(userName: Swift.String, password: Swift.String, complition: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Byte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sivakumar/Documents/SampleProjects/Byte/Byte/Byte/LoginView/ViewModel/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+               <Location
+                  uuid = "D69DCB29-40AC-4F14-B1B2-509926C03D03 - 639c02c62fe03ee4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Byte.Api.loginAPICall(userName: Swift.String, password: Swift.String, complition: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Byte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sivakumar/Documents/SampleProjects/Byte/Byte/Byte/LoginView/ViewModel/Api.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
